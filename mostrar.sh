@@ -3,12 +3,7 @@
 # Siempre comento mis scripts, si no hoy lo hago
 # y mañana ya no me acuerdo de lo que quise hacer
 
-
-
-
-
-
-
+echo $HOME
 
 echo "----PRIMER SCRIPT----"
 echo "--INGRESE POR TECLADO UNA OPCION--"
